@@ -1,5 +1,5 @@
 {
-  "name": "nebula-web",
+  "name": "Science-Stuff",
   "version": "7.11.6",
   "description": "Explore the web. Freely.",
   "type": "module",
@@ -8,9 +8,9 @@
     "start": "node app.js"
   },
   "keywords": [
-    "proxy"
+    "Science"
   ],
-  "author": "Nebula Services",
+  "author": "Nebula",
   "license": "AGPL-3.0-only",
   "dependencies": {
     "@sendgrid/mail": "^7.7.0",
